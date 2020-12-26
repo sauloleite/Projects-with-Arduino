@@ -431,19 +431,19 @@ void loop() {
     c9();
   if (comando == 'z') //Se o comando for igual a "z" chama a função da condição.
     abgarra();
-  if (comando == 'x') //Se o comando for igual a "9" chama a função da condição.
+  if (comando == 'x') //Se o comando for igual a "x" chama a função da condição.
     fegarra();
-  if (comando == '@') //Se o comando for igual a "9" chama a função da condição.
+  if (comando == '@') //Se o comando for igual a "@" chama a função da condição.
     ebase();
-  if (comando == '#') //Se o comando for igual a "9" chama a função da condição.
+  if (comando == '#') //Se o comando for igual a "#" chama a função da condição.
     dbase();
-  if (comando == '$') //Se o comando for igual a "9" chama a função da condição.
+  if (comando == '$') //Se o comando for igual a "$" chama a função da condição.
     caltura();
-  if (comando == '%') //Se o comando for igual a "9" chama a função da condição.
+  if (comando == '%') //Se o comando for igual a "%" chama a função da condição.
     baltura();
-  if (comando == '&') //Se o comando for igual a "9" chama a função da condição.
+  if (comando == '&') //Se o comando for igual a "&" chama a função da condição.
     fbraco();
-  if (comando == '*') //Se o comando for igual a "9" chama a função da condição.
+  if (comando == '*') //Se o comando for igual a "*" chama a função da condição.
     tbraco();
 
 }
